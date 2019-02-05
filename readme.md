@@ -1,0 +1,1 @@
+following https://nextjs.org/learn
